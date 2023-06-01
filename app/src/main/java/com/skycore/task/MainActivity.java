@@ -43,6 +43,9 @@ import static com.skycore.task.Config.GET_NEAR_BY_RESTAURANTS;
 import static com.skycore.task.Constants.API_KEY;
 
 // Just added project to git
+
+// this changes done from server
+
 public class MainActivity extends AppCompatActivity {
 
     private final List<Businesses> rootList = new ArrayList<>();
