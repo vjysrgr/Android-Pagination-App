@@ -23,7 +23,7 @@
                 android:layout_height="wrap_content"
                 android:text="@string/radius_selector"
                 android:textColor="@color/tv_color"
-                android:textSize="22sp" />
+                android:textSize="20sp" />
 
             <TextView
                 android:id="@+id/tv_km"
