@@ -23,7 +23,7 @@
                 android:layout_height="wrap_content"
                 android:text="@string/radius_selector"
                 android:textColor="@color/tv_color"
-                android:textSize="20sp" />
+                android:textSize="22sp" />
 
             <TextView
                 android:id="@+id/tv_km"
@@ -57,7 +57,7 @@
                 android:layout_height="wrap_content"
                 android:text="@string/_100m"
                 android:textColor="@color/tv_color"
-                android:textSize="14sp" />
+                android:textSize="16sp" />
 
             <TextView
                 android:layout_width="wrap_content"
@@ -65,7 +65,7 @@
                 android:layout_alignParentEnd="true"
                 android:text="@string/_5_km"
                 android:textColor="@color/tv_color"
-                android:textSize="14sp"
+                android:textSize="16sp"
                 tools:ignore="RelativeOverlap" />
 
         </RelativeLayout>
