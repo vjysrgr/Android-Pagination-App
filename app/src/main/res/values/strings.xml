@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SKYCORE</string>
+    <string name="radius_selector">Radius Selector</string>
+    <string name="km">KM</string>
+    <string name="m">M</string>
+    <string name="_100m">100M</string>
+    <string name="_5_km">5 KM</string>
+    <string name="enable_gps">Enable GPS</string>
+    <string name="no">No</string>
+    <string name="restaurants_not_found">Restaurants not found</string>
+    <string name="currently">Currently</string>
+    <string name="check_internet_connection">please check your internet connection</string>
+    <string name="default1">Default</string>
+    <string name="current">Current</string>
+    <string name="nyc">NYC</string>
+    <string name="todo">TODO</string>
+</resources>
