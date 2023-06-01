@@ -46,7 +46,7 @@ import static com.skycore.task.Constants.API_KEY;
 
 // this changes done from server
 
-//try again
+// try again
 
 public class MainActivity extends AppCompatActivity {
 
