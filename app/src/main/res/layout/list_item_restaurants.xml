@@ -62,7 +62,7 @@
                     android:layout_height="wrap_content"
                     android:text="@string/currently"
                     android:textColor="@color/black"
-                    android:textSize="14sp" />
+                    android:textSize="15sp" />
 
                 <TextView
                     android:id="@+id/tv_open_close"
